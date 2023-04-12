@@ -99,7 +99,7 @@
         "typescript": "^4.0.0-dev.20200624",
         "vinyl": "latest",
         "vinyl-sourcemaps-apply": "latest",
-        "xml2js": "^0.4.19"
+        "xml2js": "^0.5.0"
     },
     "scripts": {
         "prepare": "gulp build-eslint-rules",
